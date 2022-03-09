@@ -1,2 +1,2 @@
 #!/bin/bash
-SERVER --In /etc/ssh/sshd_config[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dgrep SERVER -In /etc/ssh/sshd_config[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D--ERVER -In /etc/ssh/sshd_config[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DS[C[C[C[C[C[C[C[C[C[C[C[C[C[C6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+grep '^[[:alpha:]]' /etc/ssh/sshd_config
